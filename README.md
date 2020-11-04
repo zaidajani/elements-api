@@ -6,6 +6,6 @@ to fire up server side API, navigate to the API folder using `cd api`, and then 
 
 # preview
 
-<a href="elements-api.herokuapp.com">Click here to preview the API</a>
+<a href="https://elements-api.herokuapp.com">Click here to preview the API</a>
 
 <bold>Enjoy your application</bold>
