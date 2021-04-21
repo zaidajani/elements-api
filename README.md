@@ -2,7 +2,7 @@
 
 The api service for the element app
 
-to fire up server side API, navigate to the API folder using `cd api`, and then run `npm run dev`, and dont forget to start your mongoDb server.
+To fire up server side API, navigate to the API folder using `cd api`, and then run `npm run dev`, and dont forget to start your mongoDb server.
 
 # Preview
 
