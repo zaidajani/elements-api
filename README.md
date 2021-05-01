@@ -1,4 +1,4 @@
-# elements-api
+# Elements-api
 
 The api service for the element app
 
